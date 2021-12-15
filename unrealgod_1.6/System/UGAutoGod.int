@@ -1,0 +1,4 @@
+[Public]
+Object=(Name=UGAutoGod.UGAutoGod,Class=Class,MetaClass=Engine.Mutator,Description="UGAutoGod")
+Object=(Name=UGAutoGod.UGAutoGodMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="UGAutoGod Options")
+

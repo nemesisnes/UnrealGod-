@@ -1,0 +1,14 @@
+- Make sure you have the AutoGod set to your skill level(default is medium).
+- Raise skills that complement your play style.
+- The dispersion pistol is more useful than you may think. Fully upgraded and using an amplifier makes it one of the more powerful guns in the game. Remember that you can charge up the alt-fire, and the alt-fire also does splash damage(useful against tiny monsters).
+- Use the dispersion pistol, a melee weapon, or a nearby exploding barrel to break open containers, saving your ammo for the bad guys.
+- Don't kill the nali, they can be useful! Ok, kill a few if you want ;-)
+- Don't pick fights with neutral monsters and npcs unless you are at an advantage.
+- Use those items! They can be quite useful, and you lose them when you die. Plant those seeds, you may need the fruit later. When you are out of ammo and stuck with using the dipersion pistol, use those amplifiers. Some items can be used in more ways than one.
+- You can pick up and throw some small objects. Using certain objects this can be a potent strategy.
+- There are more ways to kill monsters than just with your weapons.Obvious examples are blowing them up with exploding barrels, and knocking them into lava or slime or space. As long as you do some damage with your weapon, you will still get experience points.
+- Learn which weapons are more effective against which monsters. Some monsters have natural resistances. Some monsters like to fight at a distance, use hitscan weapons against them. Splash weapons are good against groups of monsters. The Bio guns aren't very effective against flying monsters, but are great for dropping a fully loaded glob on the unaware.
+- The small monsters can be hard to hit, but they have low health. Use a splash weapon (the dispersion pistol's alt mode does splash damage) against a nearby wall or floor to take them out quickly.
+- Most monsters are stupid. Use smart tactics to get many safe and easy kills.
+- You will die! Don't let it bother you, you just lose a little experience (you can't lose a level) and drop your stuff. You can go back to grab your stuff and get a little vengeance...monsters and NPC's only live once so eventually you will take them down.
+- If you are stuck, you can go to the cheat tab in the UnrealGod config window (under Mods:UnrealGod) and move on to the next map. You can also type in a specific map to go to. Try to avoid the temptation of giving yourself a few free levels!

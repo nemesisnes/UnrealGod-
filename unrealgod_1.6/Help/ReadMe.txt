@@ -1,0 +1,1 @@
+DM-UG-Entry.unr will run under DM with no problems. It's a small map so try not to want to add stuff. The center is a teleporter to restart the level. This map is useful for tests if needed.

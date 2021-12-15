@@ -1,0 +1,1 @@
+unrealtournament.exe ug-entry.unr?game=unrealgod.unrealgod

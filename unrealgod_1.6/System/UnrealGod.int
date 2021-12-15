@@ -1,0 +1,8 @@
+[Public]
+Object=(Name=UnrealGod.UGModMenuItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem,Description="UnrealGod, UnrealGod Options")
+Object=(Name=UnrealGod.ExtraUnrealGodBindings,Class=Class,MetaClass=UTMenu.UTExtraKeyBindings,Description="UnrealGod Key Bindings")
+Object=(Name=UnrealGod.UGDefaultMapList,Class=Class,MetaClass=UnrealGod.UGMapList,Description="Default Maps")
+Object=(Name=UnrealGod.UGBrowserWindow,Class=Class,MetaClass=UTBrowser.UTBrowserServerListWindow)
+
+Object=(Name=UnrealGod.UnrealGod,Class=Class,MetaClass=Botpack.TournamentGameInfo,Description="UnrealGod")
+Preferences=(Caption="UnrealGod",Parent="Game Types",Class=UnrealGod.UnrealGod,Immediate=True)
