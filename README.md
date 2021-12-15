@@ -1,5 +1,6 @@
 # UnrealGod
 An old project by another author who seems to have abandoned this, so I'll take over from here.
+Please note that you must have Unreal Tournament installed in order for this to work. Doesn't matter which version you have.
 
 To ensure that this mod runs smoothly, please be sure that you place the files is in your installation of Unreal Tournament 
 (No matter which version you have on your device).
