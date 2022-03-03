@@ -16,3 +16,5 @@ ServerPackages=AutoGod
 Once done go in game and click on the Mod tab and check out the tab that pops up.
 
 Use at your own risk with other maps and mutators. Still running tons of tests on various maps, mods and mutators.
+
+Works with the latest update for Monster Hunt and Monster Defense and Monster Arena. Don't forget to check out Monster Hunt by Shrimp. Will be adding a few new features and maps in the future.
